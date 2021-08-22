@@ -2,6 +2,5 @@
 - 학력(education background): 성균관대학교(SKKU: Sungkyunkwan university)
 - 주요 이력(major career)
   - 삼성 청년 소프트웨어 아카데미(SSAFY): 2020.07 ~ 2021.06.30
-  - LG CNS: 2021.08.26 ~ ing
 - 관련 자격증(certificate)
   - 정보처리기사(20210602)
